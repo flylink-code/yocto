@@ -1,2 +1,2 @@
-# yocto
-Used to learn Yocto
+# YOCOT
+>Used to learn Yocto
